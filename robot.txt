@@ -1,0 +1,3 @@
+User-agent 
+Allow 
+Sitemap httpscarlosmiquelarena.github.iomagnolia-t3sitemap-index.xml
